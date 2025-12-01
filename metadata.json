@@ -1,0 +1,5 @@
+{
+  "name": "GenData TDM - Generador de Datos Sintéticos",
+  "description": "Aplicación profesional para la generación de datos de prueba (TDM) utilizando IA generativa. Soporta instrucciones en lenguaje natural y selección manual de campos.",
+  "requestFramePermissions": []
+}
