@@ -1,21 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🧪 tdm-generator-ai
 
-# Run and deploy your AI Studio app
+Generador de TDM (Test Data Management) impulsado por IA. Esta aplicación permite crear y gestionar datos de prueba de manera rápida y eficiente utilizando modelos de lenguaje.
 
-This contains everything you need to run your app locally.
+## 🚀 Ejecutar el proyecto localmente
 
-View your app in AI Studio: https://ai.studio/apps/drive/1npk9FYevMsEwTVZ5rtdlkYfShw9hK3Hl
+Para correr este proyecto necesitas tener Node.js instalado. Después de clonar el repositorio, instala las dependencias ejecutando `npm install`. Luego crea un archivo llamado `.env.local` en la raíz del proyecto y define la variable `GEMINI_API_KEY` con tu clave correspondiente. Finalmente, inicia la aplicación ejecutando `npm run dev`.
 
-## Run Locally
+## 📦 Funcionalidades
 
-**Prerequisites:**  Node.js
+- Generación automática de datos de prueba.
+- Soporte para diferentes estructuras y modelos.
+- Configuración flexible.
+- Integración con APIs de IA.
 
+## 📄 Licencia
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-# tdm-generator-ai
+Este proyecto se distribuye bajo la licencia que tú definas.
